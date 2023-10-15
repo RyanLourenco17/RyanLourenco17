@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Instusiata do Front end
+- 🔭 Entusiasta do Front end
 - 🌱 Estou estudando React e Python
 
 <div style="display: inline_block"><br>
